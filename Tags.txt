@@ -1,0 +1,23 @@
+<head> => For enetr heading of web
+<br> => For space b/w to line
+<hr> => For horizontal line
+<b> / <strong> => For bold text
+<i> / <em> => For cross text
+For bullet use <ul> ul means unorder list
+For number use <ol> ol means order list
+For roman numerical use <ol typr"-i">
+For Start from some other numbers then use <ol start"-number">
+<a herf=""></a> For adding link
+Suppose want to open this link in new tab then use <a href"" target="-blank"></a>
+
+Table:
+<tr> For table row
+<td> For table data
+<thead> For table header
+<tfoot> For table footer
+<tbody> For table body
+
+Form:
+<label> For nameing
+<input> For adding
+<textarea> For adding more mssage
